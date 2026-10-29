@@ -1,4 +1,0 @@
-# Python 3.10+ (используется синтаксис `X | None`)
-discord.py>=2.6.0,<3.0
-aiosqlite>=0.20.0
-python-dotenv>=1.0.0
